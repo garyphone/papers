@@ -4,4 +4,9 @@ P1. **A mathematical theory of communication**, *C. E. Shannon*, *Bell system te
 
 P2. **Measuring soil water content with ground penetrating radar: a review**, *J. A. Huisman et al.*, *Vadose zone journal*, 2003
 
-P3. **Minimum entropy regularization in frequency-wavenumber migration to localize subsurface objects**, *Xu et al.*, *IEEE transactions on geoscience and remote sensing*, 2003
+P3. **Minimum entropy regularization in frequency-wavenumber migration to localize subsurface objects**, *X. Xu et al.*, *IEEE transactions on geoscience and remote sensing*, 2003
+
+P4. **Migration of seismic data by phase shift plus interpolation**, *J. Gazdag et al*, *Geophysics*, 1984
+
+
+
